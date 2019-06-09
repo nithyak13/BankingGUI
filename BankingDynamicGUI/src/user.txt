@@ -1,0 +1,6 @@
+UserId:1234 
+UserName:Nithya 
+Password:welcome123 
+UserType:EmployeeManager 
+FirstName:Nithya  
+LastName:Kalyani
